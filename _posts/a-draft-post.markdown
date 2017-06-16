@@ -1,7 +1,8 @@
 ---
-title: Setting up a Rails App
+title: Intricacies of Rails Validation
 description: Work in progress
 published: true
+date: 2017-06-16T00:00:00.000Z
 ---
 ## Adding custom error messages to validation errors in Rails 5
 
