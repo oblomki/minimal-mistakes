@@ -1,5 +1,5 @@
 name: "Matt's Daily Journal"
-description: "My Repo of Hoefully Useful Knowledge"
+description: "My Repo of Useful Knowledge"
 meta_description: "Matt's Journal"
 
 aboutPage: false
@@ -17,7 +17,7 @@ disqus_shortname: 'your-disqus-shortname'
 
 # Details for the RSS feed generator
 url:            'http://your-blog-url.example.com'
-author:         'Your Name'
+author:         'Matvei'
 authorTwitter:  'YourTwitterUsername'
 
 permalink:       /:year/:title/
