@@ -21,7 +21,7 @@ author:         'Matvei'
 authorTwitter:  'YourTwitterUsername'
 
 permalink:       /:year/:title/
-
+timezone:      "Europe/London"
 defaults:
     -
         scope:
