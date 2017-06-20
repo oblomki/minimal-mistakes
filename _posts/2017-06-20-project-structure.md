@@ -1,6 +1,6 @@
 ---
-published: false
-date: 2017-06-20T00:00:00.000Z
+published: true
+date: {}
 ---
 ## A Little Planning
 
