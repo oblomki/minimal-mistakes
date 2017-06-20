@@ -2,7 +2,7 @@
 title: Intricacies of Rails Validation
 description: Work in progress
 published: true
-date: {}
+date: 2017-06-20T00:00:00.000Z
 ---
 ## Adding custom error messages to validation errors in Rails 5
 
